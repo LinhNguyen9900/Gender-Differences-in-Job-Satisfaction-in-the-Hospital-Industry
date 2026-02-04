@@ -3,7 +3,7 @@
 
 ## Assignment Summary 
 
-For this project, students will use Python code (specifically Pandas) to work with a real-world, tabular dataset and communicate the insights they have gained from working closely with a subset of data. Specifically, teams of 3-4 students will work with the General Social Survey (GSS) data. Each team will create a curated subset around a focal area and will create a data guide (`.ipynb`, `.html`) for the subset. Students will be evaluated based on the quality of their technical implementations; their research and writing; and their success building on and effectively synthesizing multiple aspects of the tabular data unit.
+For this project, students will use Python code (specifically Pandas) to work with a real-world, tabular dataset and communicate the insights they have gained from working closely with a subset of data. Students will be evaluated based on the quality of their technical implementations; their research and writing; and their success building on and effectively synthesizing multiple aspects of the tabular data unit.
 
 ## Assignment Purpose
 
