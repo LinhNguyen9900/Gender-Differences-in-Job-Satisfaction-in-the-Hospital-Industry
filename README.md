@@ -101,18 +101,6 @@ Submissions will be evaluated on technical content; research and writing; and ho
 - the submission provides sufficient details or points to supplementary materials that make the research reproducible (e.g. detailed footnotes, appendices, links to GitHub, etc.)
 - submitted materials build on multiple takeaways from the tabular data unit and synthesize them effectively
 
-## Assignment Details
-
-__Accessing assignment files:__ Via Github Classroom (linked on Canvas site)
-
-__Teams:__ Assigned by instructor
-
-__Required files:__ Jupyter Notebook (`.ipynb`) data guide, `.html` version (using "Download as" feature), any imported `.py` files, and `.csv` subset file or files.
-
-__How to turn it in__: Upload `.html` on Canvas; upload or push `.ipynb` file, `.csv` files, all other project materials on Github
-
-__Deadline:__ By the start of class on Friday, March 14, 2025.
-
 ## References 
 
 About the GSS. (Retrieved January 4, 2024). https://gss.norc.org/About-The-GSS
